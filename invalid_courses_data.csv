@@ -1,0 +1,31 @@
+id,title,type,keyword,duration,creation_date
+26543,"Titanic dataset",exercise,,97,2020-01-01 00:00:00.000060776
+5009,"US revises up last quarter’s economic growth to 2.9% rate",press_article,economics,118,2020-01-01 00:00:00.000062623
+1001,"Linear Optimization - Exam",exam,maths,49,2020-01-01 00:00:00.000035434
+19630,"Understand your muscles",exercise,sport,86,2020-01-01 00:00:00.000000140
+-7477,"Oriented Object Programming in Python",course,,32,2020-01-01 00:00:00.000000199
+90262,"https://en.wikipedia.org/wiki/Sylow_theorems",web_url,maths,44,2020-01-01 00:00:00.000021181
+19434,"https://en.wikipedia.org/wiki/%C3%89douard_Daladier",web_url,,5,2020-06-14 20:27:08.732437978
+35715,"Fortnite servers not responding: What time does Fortnite Chapter 4 start?",press_article,video_games,81,2022-12-04 09:57:02.711460592
+49386,"Introduction to Galois Theory",course,maths,16,2020-01-01 00:00:00.000018548
+53917,"The Skier Problem: forces, Newton laws and energy conservation",exercise,physics,18,2020-01-01 00:00:00.000000024
+73025,"The Newton laws",course,physics,57,2021-04-16 15:40:06.150760396
+98302,"Introduction to MLOps",course,data_science,116,2020-01-01 00:00:00.000055192
+88455,"https://www.tf1info.fr/sciences-et-innovation/quatre-mathematiciens-couronnes-par-la-medaille-fields-dont-le-francais-hugo-duminil-copin-2225352.html",press_article,maths,5,2020-01-01 00:00:00.000002060
+81401,"France, 1660-1815: Enlightenment, Revolution, Napoleon",course,history,61,2021-09-01 00:00:00.000000134
+59564,"Exam on Keynes Macroeconomic Theory",exam,economics,61,2022-04-21 17:00:07.927049458
+15893,"The Starry Night (Van Gogh)",exercise,arts,54,2020-01-01 00:00:00.000040709
+65110,"Design Patterns for Software Engineering",course,computer_science,23,2020-01-01 00:00:00.000000166
+77059,"Distinction: A Social Critique of the Judgement of Taste (Bourdieu)",course,social_sciences,31,2020-01-01 00:00:00.000028558
+42292,"https://www.lequipe.fr/",web_url,sport,98,2020-01-01 00:00:01.887225572
+86606,"GPU Programming",course,video_games,80,2020-07-17 21:26:28.739967003
+46886,"Impressionism",exam,arts,88,2020-01-01 00:00:01.145633200
+49891,"Football Rules",exam,sport,83,2020-01-01 00:00:00.000030317
+16026,"Durkheim: https://www.youtube.com/watch?v=z9W0GQvONKc",video,social_sciences,2,2020-01-01 00:00:00.000000241
+7919,"To Retain Your Best Employees, Invest in Your Best Managers",press_article,management,24,2020-01-01 00:00:00.000000109
+15657,"Cell Structure explained",video,biology,46,2020-01-01 00:00:00.000032306
+72446,"Photosynthesis exercise",exercise,biology,108,2021-11-23 12:47:13.996557236
+76956,"The Man Who Revolutionized Computer Science With Math
+: https://www.youtube.com/watch?v=rkZzg7Vowao",video,computer_science,64,2020-01-01 00:00:00.000005628
+100000,"Accounting and financial management",course,management,14,2020-01-01 00:00:00.000036098
+
